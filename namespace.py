@@ -6,3 +6,4 @@ def namespace(s):
     return dict
 
 print(namespace('a.b.c.d.e'))
+
